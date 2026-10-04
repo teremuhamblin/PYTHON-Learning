@@ -9,6 +9,7 @@ Apprendre les bases de Python à travers des petits fichiers simples et clairs.
 ```text
 PYTHON-Learning/
 │
+├── cours/
 ├── README.md
 ├── 01_hello_world.py
 ├── 02_variables.py
