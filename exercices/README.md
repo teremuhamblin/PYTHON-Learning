@@ -11,8 +11,7 @@ Les exercices sont organisés par niveau : débutant, intermédiaire, avancé et
 ---
 
 📁 Structure des exercices
-
-`
+```text
 exercices/
 │
 ├── debutant/
@@ -27,7 +26,7 @@ exercices/
 ├── avance/
 │
 └── expert/
-`
+```
 
 ---
 
