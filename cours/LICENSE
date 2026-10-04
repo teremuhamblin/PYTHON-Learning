@@ -1,0 +1,82 @@
+# Python Educational License v1.0
+Licence éducative pour le dossier `cours/` — Créée par The MadDoG.tmdg 
+
+Cette licence encadre l’utilisation des fichiers pédagogiques contenus dans le dossier `cours/` du projet d’apprentissage Python.  
+Elle est destinée aux apprenants, enseignants, formateurs et autodidactes.
+
+---
+
+# 1. Objet de la licence
+Cette licence autorise l’utilisation du contenu dans un cadre **éducatif**, **pédagogique**, **personnel** ou **non commercial**.  
+Elle protège le travail original de Teremu tout en permettant son usage pour l’apprentissage du langage Python.
+
+---
+
+# 2. Usage autorisé
+Vous êtes autorisé à :
+
+- Lire, utiliser et étudier tous les fichiers du dossier `cours/`.
+- Reproduire les exemples dans vos propres exercices.
+- Modifier les fichiers pour votre apprentissage ou pour un usage en classe.
+- Partager le contenu avec des élèves ou apprenants dans un cadre non commercial.
+- Intégrer des extraits dans des supports pédagogiques gratuits (PDF, slides, notes de cours).
+
+---
+
+# 3. Usage non autorisé
+Il est strictement interdit de :
+
+- Revendre le contenu, même modifié.
+- Redistribuer publiquement le dossier `cours/` sans autorisation de Teremu.
+- Intégrer le contenu dans une formation payante, un MOOC, un livre ou un produit commercial.
+- Copier le contenu pour créer un cours concurrent commercialisé.
+- Publier une version modifiée sans mentionner l’auteur original.
+
+---
+
+# 4. Attribution obligatoire
+Toute utilisation publique ou diffusion doit inclure la mention :
+
+**"Contenu éducatif basé sur le travail original de Teremu — Python Educational License v1.0"**
+
+Cette attribution doit apparaître :
+- dans les README,
+- dans les supports de cours,
+- dans les vidéos éducatives,
+- dans les dépôts GitHub dérivés.
+
+---
+
+# 5. Modifications et versions dérivées
+Les modifications sont autorisées **uniquement** si :
+
+- elles sont utilisées dans un cadre éducatif ou personnel,
+- elles conservent cette licence,
+- elles mentionnent clairement les changements apportés,
+- elles ne sont pas revendues ou commercialisées.
+
+---
+
+# 6. Distribution
+Vous pouvez distribuer le contenu :
+
+- à vos élèves,
+- dans une classe,
+- dans un atelier gratuit,
+- dans un groupe d’apprentissage,
+- dans un club de programmation.
+
+Toute distribution publique (GitHub, site web, réseaux sociaux) nécessite l’attribution obligatoire.
+
+---
+
+# 7. Garantie
+Le contenu est fourni **sans garantie**, sans promesse de correction, de mise à jour ou de compatibilité.  
+Il est destiné exclusivement à l’apprentissage du langage Python.
+
+---
+
+# 8. Contact
+Pour toute demande d’autorisation spéciale (usage commercial, intégration dans une formation payante, publication élargie) :
+
+**The MadDoG.tmdg — Auteur et propriétaire de la Python Educational License v1.0**
