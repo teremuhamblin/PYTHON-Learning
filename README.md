@@ -153,3 +153,22 @@ SR No   | Project | Author
 - Auteur du projet PYTHON-Learning
 
 ---
+
+```text
+🤝 Support & Collaboration
+📘 Contribuer à PYTHON-Learning
+Toute contribution est la bienvenue : correction, ajout de cours, nouveaux exercices, mini‑projets, documentation.
+
+🛠️ Développement de modules personnalisés
+Disponible pour la création de modules pédagogiques avancés :  
+- IA appliquée  
+- Automatisation Python  
+- Web3 éducatif  
+- Projets full‑stack pour les apprenants
+
+⭐ Soutenir le dépôt
+Si PYTHON-Learning vous aide à progresser, pensez à ajouter une étoile ⭐ au dépôt GitHub.
+
+❤️ Sponsoriser le projet
+Vous pouvez soutenir le développement open‑source via GitHub Sponsors afin d’aider à produire davantage de contenu éducatif.
+```
