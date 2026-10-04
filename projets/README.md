@@ -16,11 +16,11 @@ Les projets sont organisés par difficulté croissante, du plus simple au plus s
 ```text
 projets/
 │
-├── projet01calculatrice/
-├── projet02contacts/
-├── projet03jeudevinenombre/
-├── projet04analyse_fichiers/
-└── projet05api_fastapi/
+├── projet01-calculatrice/
+├── projet02-contacts/
+├── projet03-jeudevinenombre/
+├── projet04-analyse_fichiers/
+└── projet05-api_fastapi/
 ```
 
 ---
