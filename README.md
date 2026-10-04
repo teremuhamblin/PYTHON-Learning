@@ -29,10 +29,10 @@ PYTHON-Learning/
 1. Installer Python (https://www.python.org)
 2. Ouvrir un terminal
 3. Lancer un fichier :
-`python 01helloworld.py
-`
+```python
+01_hello-world.py
+```
 
 🚀 Bonne découverte !
-`
 
 ---
