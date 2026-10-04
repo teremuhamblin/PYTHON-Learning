@@ -10,6 +10,7 @@ Apprendre les bases de Python à travers des petits fichiers simples et clairs.
 PYTHON-Learning/
 │
 ├── cours/
+├── LICENSE
 ├── README.md
 ├── 01_hello_world.py
 ├── 02_variables.py
