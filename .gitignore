@@ -1,0 +1,45 @@
+# ============================
+# PYTHON-LEARNING — .gitignore
+# ============================
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Logs ---
+*.log
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+*.old
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.swp
+
+# --- Jupyter notebooks checkpoints (si ajout futur) ---
+.ipynb_checkpoints/
+
+# --- Build / distribution (si ajout futur de modules Python) ---
+build/
+dist/
+*.egg-info/
+
+# --- Environment variables ---
+.env
+.env.*
