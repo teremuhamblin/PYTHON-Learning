@@ -14,6 +14,7 @@ cours/
 ├── 05_fonctions.md
 ├── cours_intermediaire.md
 ├── cours_avance.md
+├── cours_expert.md
 ```
 
 ### Contenu
@@ -25,6 +26,7 @@ cours/
 - `05_fonctions.md` — créer des fonctions
 - `cours_intermediaire.md` — cours de niveau intermediaire
 - `cours_avance.md` — cours de niveau avance
+- `cours_expert.md` — cours de niveau expert
 ```
 
 ### Objectif
