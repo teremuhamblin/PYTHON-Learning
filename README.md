@@ -2,6 +2,12 @@
 
 ## 📄 PYTHON-Learning 🐍
 
+<p align="left">
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+  </a>
+</p>
+
 Projet éducatif complet pour apprendre le langage de programmation Python, du niveau débutant au niveau expert.  
 Créé et maintenu par Teremu.
 
