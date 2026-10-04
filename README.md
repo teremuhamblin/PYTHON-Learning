@@ -1,6 +1,6 @@
 ###### ~/README.md >> markdown 
 
-# 📄 PYTHON-Learning 🐍
+## 📄 PYTHON-Learning 🐍
 
 Projet éducatif complet pour apprendre le langage de programmation Python, du niveau débutant au niveau expert.  
 Créé et maintenu par Teremu.
