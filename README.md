@@ -136,8 +136,36 @@ Elle autorise l’usage pédagogique du contenu tout en interdisant toute exploi
 
 ### 🤝 Contribution
 
-Les contributions sont les bienvenues dans un cadre éducatif.  
+>Les contributions sont les bienvenues dans un cadre éducatif.  
 Voir CONTRIBUTING.md pour les règles complètes.
+
+### ALLContributors ✨
+
+SR No   | Project | Author  
+--- | --- | ---
+1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
+2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
+3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499)
+4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera)
+5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499)
+6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) | [Mitesh](https://github.com/Mitesh2499) & [Michael Mba](https://github.com/mikeysan)
+7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499)
+8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) | [Mitesh](https://github.com/Mitesh2499)
+9 | [WishList App Using Django](https://github.com/Python-World/python-mini-projects/tree/master/projects/WishList) | [Ravi Chavare](https://github.com/chavarera)
+10 | [Split Folders into Subfolders](https://github.com/Python-World/python-mini-projects/tree/master/projects/Split_folder_into_subfolders) | [Ravi Chavare](https://github.com/chavarera)
+11 | [Download bulk images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Download_images_from_website) | [Mitesh](https://github.com/Mitesh2499)
+12 | [Random word from file](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_word_from_list) | [Ravi Chavare](https://github.com/chavarera)
+13 | [Battery notification](https://github.com/Python-World/python-mini-projects/tree/master/projects/Battery_notification) | [Mitesh](https://github.com/Mitesh2499)
+14 | [Calculate age](https://github.com/Python-World/python-mini-projects/tree/master/projects/Calculate_age) | [Gaodong](https://github.com/xlgd)
+15 | [Text file analysis](https://github.com/Python-World/python-mini-projects/tree/master/projects/Textfile_analysis) | [m044de](https://github.com/m044de/)
+16 | [Generate image snipets](https://github.com/Python-World/python-mini-projects/tree/master/projects/Py_carbon_clips) | [ravi chavare](https://github.com/Python-World/)
+17 | [Organize file system](https://github.com/Python-World/python-mini-projects/tree/master/projects/Organized_download_folder_with_different_categories) | [Mitesh](https://github.com/Mitesh2499)
+18 | [Send emails](https://github.com/Python-World/python-mini-projects/tree/master/projects/Send_email_from_csv) | [Mitesh](https://github.com/Mitesh2499)
+19 | [Get Ipaddress and Hostname of Website](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_out_hostname_and_ip_address) | [Nuh Mohammed](https://github.com/NuhMohammed)|
+20 | [Progressbar using tqdm](https://github.com/Python-World/python-mini-projects/tree/master/projects/Terminal_progress_bar_with_images_resizing) | [Mitesh](https://github.com/Mitesh2499)
+21 | [Get meta information of images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Get_meta_information_of_images) | [Gaodong](https://github.com/xlgd)
+22 | [Captures Frames from video](https://github.com/Python-World/python-mini-projects/tree/master/projects/Capture_Video_Frames) | [phileinSophos](https://github.com/phileinSophos/
+
 
 ---
 
