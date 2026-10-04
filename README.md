@@ -17,6 +17,17 @@ Ce dépôt propose un ensemble structuré de cours, exercices, mini‑projets et
 
 ### 📘 Contenu du projet
 
+<p align="left">
+
+  <img src="https://img.shields.io/github/stars/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/forks/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/issues/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/issues-pr/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/contributors/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/license/teremuhamblin/PYTHON-Learning?style=for-the-badge&color=red">
+
+</p>
+
 ### Les dossiers
 
 ### 1. cours/
