@@ -1,5 +1,4 @@
-# 📁 PYTHON-Learning
-
+# 📁 Structure 
 ```text
 PYTHON-Learning/
 │
@@ -23,56 +22,28 @@ PYTHON-Learning/
 │
 ├── exercices/
 │   ├── debutant/
+│   │   ├── 01_hello_world.py
+│   │   ├── 02_variables.py
+│   │   ├── 03_conditions.py
+│   │   ├── 04_boucles.py
+│   │   └── 05_fonctions.py
 │   ├── intermediaire/
 │   ├── avance/
 │   └── expert/
 │
 ├── projets/
-│   ├── projet01calculatrice/
-│   ├── projet02contacts/
-│   ├── projet03jeudevinenombre/
-│   ├── projet04analyse_fichiers/
-│   └── projet05api_fastapi/
+│   ├── projet_01_calculatrice/
+│   ├── projet_02_contacts/
+│   ├── projet_03_jeu_devine_nombre/
+│   ├── projet_04_analyse_fichiers/
+│   └── projet_05_api_fastapi/
 │
 └── ressources/
     ├── docs/
     ├── images/
     └── cheatsheets/
-````
+```
 
----
-
-🧱 Résumé des ajouts récents
-
-✔ Ajout des cours complets :
-- cours_intermediaire.md  
-- cours_avancé.md  
-- cours_expert.md  
-
-✔ Ajout des fichiers racine :
-- README.md complet  
-- LICENSE éducative complète  
-- CONTRIBUTING.md  
-- CHANGELOG.md  
-- ROADMAP.md  
-- .gitignore  
-
-✔ Ajout de la structure pour :
-- exercices/ (4 niveaux)  
-- projets/ (5 mini-projets)  
-- ressources/ (docs, images, cheatsheets)  
-
----
-
-🎯 Le projet est maintenant structuré comme un vrai projet éducatif professionnel
-
-Tu as :
-- un écosystème complet pour apprendre Python  
-- une documentation propre  
-- une roadmap claire  
-- un changelog versionné  
-- des cours du niveau débutant au niveau expert  
-- une licence éducative personnalisée  
-- une structure extensible pour exercices et projets  
+🧱
 
 ---
